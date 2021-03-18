@@ -1,2 +1,2 @@
 # LabPBO
-Repo Latihan PBO
+Repositori Kode Latihan Pemrograman Berorientasi Obyek.
